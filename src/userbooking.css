@@ -1,0 +1,15 @@
+.tbl
+{
+    background-color:rgb(117, 115, 115);
+}
+
+.tbhead
+{
+    background-color: #9a9499
+}
+
+.dbill:hover
+{
+  background-color: blue;
+  color: whitesmoke;
+}
